@@ -1,4 +1,4 @@
-# Animator Core
+# Animator Core Peter Baptista
 
 [![NPM](https://nodei.co/npm/@haiku/core.png)](https://nodei.co/npm/@haiku/core/)
 
